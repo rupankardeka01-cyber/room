@@ -490,7 +490,7 @@
   <div class="floating-bg" id="floatingBg"></div>
 
   <div class="header">
-    <h1><i class="fas fa-home"></i> roommate·₹</h1>
+    <h1><i class="fas fa-home"></i> roommate·</h1>
     <span class="badge">R · J · K · G</span>
   </div>
 
